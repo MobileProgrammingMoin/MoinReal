@@ -29,7 +29,7 @@ const Footer = styled.View`
 const SharingInfoList = ( ) => {
     return (
         <Container>
-            <Header><StyledText>header진짜제발제발..</StyledText></Header>
+            <Header><StyledText>header진짜제발진짜제발..</StyledText></Header>
             <Contents><StyledText>Contents</StyledText></Contents>
             <Footer><StyledText>footer</StyledText></Footer>
         </Container>
