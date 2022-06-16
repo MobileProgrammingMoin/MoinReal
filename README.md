@@ -111,7 +111,7 @@ $ expo start
    - 링크 관리
      ![image](https://user-images.githubusercontent.com/48820696/174016235-09e132b8-6a14-438d-b7cf-0005750f9006.png)
    - 명예의 전당
-     ![image](https://user-images.githubusercontent.com/48820696/174016324-b2ce4d7f-37ce-4b71-a7b6-2ef1874336aa.png)
+     ![image](https://user-images.githubusercontent.com/48820696/174023665-7a6ee897-e3d4-41f0-856c-a0df9db4cc2c.png)
 
    
 <br><br>
@@ -120,6 +120,8 @@ $ expo start
 ---
 https://youtu.be/4HlHByaD--Q
 
+
+<br><br>
 
 
 😢 아쉬운점 (거의 해커톤과 비슷한 시간과 촉박함이었습니다.... )
